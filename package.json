@@ -1,0 +1,13 @@
+{
+  "name": "codeacademy-gatekeeper",
+  "version": "1.0.0",
+  "description": "Basic student authentication system",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "bcrypt": "^5.1.0"
+  }
+}
